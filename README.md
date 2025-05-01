@@ -27,7 +27,7 @@
   - Оптимизированная обработка через `git blame --porcelain`
   - Прогресс-бар для длительных операций (TODO)
 
-## Установка ⚙️
+## Установка 
 
 ### Через Go:
 ```bash
@@ -95,6 +95,6 @@ Charlie Clark          762      8        5
 go test -v ./test/integration/... -coverprofile=coverage.out
 ```
 
-## Лицензия 📄
+## Лицензия
 
 MIT License. Подробности в файле [LICENSE](LICENSE).
